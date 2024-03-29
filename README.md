@@ -7,3 +7,5 @@
 💼 I'm keen to collaborate on projects where I can contribute my Python expertise and learn alongside talented individuals. Let's build something awesome together! 🌟
 
 📧 Feel free to drop me a line at raurekeshova@gmail.com. I'd love to connect and explore opportunities to grow together! 💌
+
+![Woman learning software engineering](Python and woman.png)
