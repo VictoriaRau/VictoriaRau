@@ -8,4 +8,8 @@
 
 📧 Feel free to drop me a line at raurekeshova@gmail.com. I'd love to connect and explore opportunities to grow together! 💌
 
-![Woman learning software engineering](https://raw.githubusercontent.com/VictoriaRau/VictoriaRau/master/Python and woman.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VictoriaRau/VictoriaRau/blob/main/Python%20and%20woman.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/VictoriaRau/VictoriaRau/blob/main/Python%20and%20woman.png">
+ <img alt="Shows an image of woman with Python on her head" src="https://github.com/VictoriaRau/VictoriaRau/blob/main/Python%20and%20woman.png">
+</picture>
