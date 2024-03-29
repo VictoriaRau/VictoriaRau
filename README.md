@@ -8,4 +8,4 @@
 
 📧 Feel free to drop me a line at raurekeshova@gmail.com. I'd love to connect and explore opportunities to grow together! 💌
 
-![Woman learning software engineering](Python and woman.png)
+![Woman learning software engineering](https://raw.githubusercontent.com/VictoriaRau/VictoriaRau/master/Python and woman.png)
