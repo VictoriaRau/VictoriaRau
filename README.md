@@ -9,7 +9,5 @@
 📧 Feel free to drop me a line at raurekeshova@gmail.com. I'd love to connect and explore opportunities to grow together! 💌
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VictoriaRau/VictoriaRau/blob/main/Women%20and%20python.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/VictoriaRau/VictoriaRau/blob/main/Women%20and%20python.png">
  <img alt="Shows an image of women helping each other with Python there" src="https://github.com/VictoriaRau/VictoriaRau/blob/main/Women%20and%20python.png">
 </picture>
